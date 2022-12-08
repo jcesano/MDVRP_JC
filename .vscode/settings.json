@@ -1,0 +1,9 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "numeric": "cpp",
+        "chrono": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
